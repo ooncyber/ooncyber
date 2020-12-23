@@ -5,8 +5,8 @@ Gabriel R Carneiro here 🤩 Thanks for you attention!
 <p align='left'>
   🚀 Actually, I'm venturing into Node and Flutter technologies! But if you be patient, will find some stuffs around another techs 😉
 </p>
-<br>
-![ooNCyber's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ooncyber&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ooncyber&layout=compact)
 
 <p align="left">
 
