@@ -3,7 +3,13 @@
 Gabriel R Carneiro here 🤩 Thanks for you attention!
 
 <p align='left'>
-  🚀 Actually, I'm venturing into Node and Flutter technologies! But if you be patient, will find some stuffs around another techs 😉
+  🚀 Node/Flutter/Vue developer 😉
+</p>
+<p align='left'>
+  🎇 I started my devlife at 2017, when I finished my high school and sold my first software to a grocery store near my school
+</p>
+<p align='left'>
+ 🔒 Now, I'm 22 y/o, still learning and developing in same area, but exploring all stuff's around it.
 </p>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ooncyber&layout=compact)
