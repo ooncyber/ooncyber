@@ -6,7 +6,7 @@ Gabriel R Carneiro here 🤩 Thanks for you attention!
   🚀 Node/Flutter/Vue developer 😉
 </p>
 <p align='left'>
-  🎇 I started my devlife at 2017, when I finished my high school and sold my first software to a grocery store near my school
+  🎇 I started my dev life's at 2017, when I finished my high school and sold my first software to a grocery store near my school
 </p>
 <p align='left'>
  🔒 Now, I'm 22 y/o, still learning and developing in same area, but exploring all stuff's around it.
